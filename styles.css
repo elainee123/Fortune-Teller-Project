@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+h2 {
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    display: block;
+    padding: 10px;
+
+}
+
+body {
+    background: #bff2ff;
+}
+
+p {
+    font-family: 'Amatic SC';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.pic{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
